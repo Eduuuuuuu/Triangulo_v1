@@ -1,1 +1,0 @@
-# Triangulo_v1
